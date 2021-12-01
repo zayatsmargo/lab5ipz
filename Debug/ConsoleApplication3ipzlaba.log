@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3ipzlaba.cpp
+C:\Users\Владелец\source\repos\ConsoleApplication3ipzlaba\ConsoleApplication3ipzlaba\ConsoleApplication3ipzlaba.cpp(52,13): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Владелец\source\repos\ConsoleApplication3ipzlaba\ConsoleApplication3ipzlaba\ConsoleApplication3ipzlaba.cpp(59,11): warning C4101: x: неиспользованная локальная переменная
+  ConsoleApplication3ipzlaba.vcxproj -> C:\Users\Владелец\source\repos\ConsoleApplication3ipzlaba\Debug\ConsoleApplication3ipzlaba.exe
